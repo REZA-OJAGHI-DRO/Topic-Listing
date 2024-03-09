@@ -145,7 +145,7 @@ function openMenu(e){
                                 <ul className="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
                                     <li><Link className="dropdown-item" href="/page3">Topics Listing</Link></li>
 
-                                    <li><Link className="dropdown-item" href="contact.html">Contact Form</Link></li>
+                                    <li><Link className="dropdown-item" href="/page4">Contact Form</Link></li>
                                 </ul>
                             </li>
                         </ul>
@@ -201,19 +201,19 @@ function Footer(){
 
                         <ul className="site-footer-links">
                             <li className="site-footer-link-item">
-                                <Link href="#" className="site-footer-link">Home</Link>
+                                <Link href="/" className="site-footer-link">Home</Link>
                             </li>
 
                             <li className="site-footer-link-item">
-                                <Link href="#" className="site-footer-link">How it works</Link>
+                                <Link href="#section_3" className="site-footer-link">How it works</Link>
                             </li>
 
                             <li className="site-footer-link-item">
-                                <Link href="#" className="site-footer-link">FAQs</Link>
+                                <Link href="/page3" className="site-footer-link">Topics Listing</Link>
                             </li>
 
                             <li className="site-footer-link-item">
-                                <Link href="#" className="site-footer-link">Contact</Link>
+                                <Link href="/page4" className="site-footer-link">Contact Form</Link>
                             </li>
                         </ul>
                     </div>
