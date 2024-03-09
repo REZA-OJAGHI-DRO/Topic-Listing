@@ -6,7 +6,7 @@ import "./../../css/bootstrap-icons.css";
 import "./../../css/bootstrap.min.css";
 import "./../../css/templatemo-topic-listing.css";
 
-export default function S1() {
+export default function S2() {
   return (
     <section className="topics-detail-section section-padding" id="topics-detail">
     <div className="container">
